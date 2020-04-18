@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fhs_page/static/css/main.1589a716.chunk.css",
+    "main.js": "/fhs_page/static/js/main.29d3c2d7.chunk.js",
+    "main.js.map": "/fhs_page/static/js/main.29d3c2d7.chunk.js.map",
+    "runtime-main.js": "/fhs_page/static/js/runtime-main.2e9103f9.js",
+    "runtime-main.js.map": "/fhs_page/static/js/runtime-main.2e9103f9.js.map",
+    "static/js/2.1466c1c0.chunk.js": "/fhs_page/static/js/2.1466c1c0.chunk.js",
+    "static/js/2.1466c1c0.chunk.js.map": "/fhs_page/static/js/2.1466c1c0.chunk.js.map",
+    "index.html": "/fhs_page/index.html",
+    "precache-manifest.f9322eefcc6bfa5a4dacb94718087ee0.js": "/fhs_page/precache-manifest.f9322eefcc6bfa5a4dacb94718087ee0.js",
+    "service-worker.js": "/fhs_page/service-worker.js",
+    "static/css/main.1589a716.chunk.css.map": "/fhs_page/static/css/main.1589a716.chunk.css.map",
+    "static/js/2.1466c1c0.chunk.js.LICENSE": "/fhs_page/static/js/2.1466c1c0.chunk.js.LICENSE",
+    "static/media/facebook_logo.svg": "/fhs_page/static/media/facebook_logo.72a7f3ef.svg",
+    "static/media/linkedin.svg": "/fhs_page/static/media/linkedin.d5bd0977.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e9103f9.js",
+    "static/js/2.1466c1c0.chunk.js",
+    "static/css/main.1589a716.chunk.css",
+    "static/js/main.29d3c2d7.chunk.js"
+  ]
+}
